@@ -828,10 +828,6 @@ a:focus{
         width: 450px;
     }
 
-    iframe{
-        display: none;
-    }
-
     .logo {
 
         padding: 0px;
@@ -1277,10 +1273,6 @@ a:focus{
     body {
 
         width: auto;
-    }
-
-    iframe{
-        display: none;
     }
 
     .logo {
