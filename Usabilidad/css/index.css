@@ -819,19 +819,17 @@ a:focus{
     text-decoration: dashed;
 }
 
-@media screen and (max-width: 750px) {
 
-    iframe{
-        display: none;
-    }
-    
-}
 
 @media screen and (max-width: 450px) {
 
     body {
 
         width: 450px;
+    }
+
+    iframe{
+        display: none;
     }
 
     .logo {
@@ -1279,6 +1277,10 @@ a:focus{
     body {
 
         width: auto;
+    }
+
+    iframe{
+        display: none;
     }
 
     .logo {
