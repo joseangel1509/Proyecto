@@ -819,6 +819,14 @@ a:focus{
     text-decoration: dashed;
 }
 
+@media screen and (max-width: 500px) {
+
+    iframe{
+        display: none;
+    }
+    
+}
+
 @media screen and (max-width: 450px) {
 
     body {
